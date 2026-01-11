@@ -8,7 +8,7 @@ public class sanatani {
         String Yes = sc.nextLine();
         System.out.println("Thank You For Your Answere");
         String No = sc.nextLine();
-        System.out.println("Aap Madharchod hain");
+        System.out.println("Thanks for your answere");
 
 
     }
